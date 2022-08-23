@@ -1,9 +1,12 @@
 import './App.css';
+import Home from './components/home/home';
+import Navigation from './components/navigation/navigation';
 
 function App() {
   return (
     <div className="App">
-    <h1>Hello World!</h1>
+    <Navigation />
+    <Home />
       
     </div>
   );
