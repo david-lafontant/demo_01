@@ -1,4 +1,4 @@
-.home{
+.home {
   background-image: url('../../assets/images/restaurant1.svg');
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -8,13 +8,13 @@
   width: 100vw;
 }
 
-.arrowLeft{
+.arrowLeft {
   filter: brightness(1.75);
   height: 25vh;
   width: 10vw;
 }
 
-.arrowRight{
+.arrowRight {
   filter: brightness(1.75);
   height: 25vh;
   width: 10vw;
